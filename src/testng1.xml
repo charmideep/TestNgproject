@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  
+  <parameter name="url" value="https://login.yahoo.com/"/>
+  <parameter name="emailid" value="charmi@gmail.com"/>
+  
+  
+  
+    <classes>
+      <class name="paramert.ParamertTestclass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
